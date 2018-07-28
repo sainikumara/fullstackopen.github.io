@@ -223,7 +223,7 @@ Perinteisissä websovelluksissa selain on "tyhmä", se ainoastaan pyytää palve
 
 ### Selaimessa suoritettava sovelluslogiikka
 
-Pidä konsoli edelleen auki. Tyhjennä konsolin näkymä painamalla vasemmalla olevaa &empty;-symbolia.
+Pidä konsoli edelleen auki. Tyhjennä konsolin näkymä painamalla vasemmalla olevaa &#128711;-symbolia.
 
 Kun menet nyt [muistiinpanojen](https://fullstack-exampleapp.herokuapp.com/notes) sivulle, selain tekee 4 HTTP-pyyntöä:
 
